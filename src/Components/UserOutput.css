@@ -1,3 +1,8 @@
 .output{
     border: 1px solid #eee;
+    background-color: azure;
+    box-shadow: burlywood;
+    display:inline-flexbox;
+    flex-wrap: wrap;
+
 }
